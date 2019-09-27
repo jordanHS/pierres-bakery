@@ -11,7 +11,8 @@ namespace PierresBakery
             Console.WriteLine("Welcome to Pierre's Bakery!");
             Console.WriteLine("Bread: $5 for one loaf");
             Console.WriteLine("Pastries: $2 each");
-            
+            Console.WriteLine("What would you like to buy?");
+            string goods = Consol
 
         }
     }
