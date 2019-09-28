@@ -1,11 +1,11 @@
 using System.Collections.Generic;
 namespace Bakery.Models
 {
-    public class Pastries
+    public class Pastry
     {
         public int Price { get; set; }        
         public string Item { get; set; }
-        public Pastries()
+        public Pastry()
         {
             Price = 2;
             Item = "Pastries";
